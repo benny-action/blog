@@ -1,0 +1,8 @@
+title = 'Chapter Two'
+file_name = 'post-two'
+description = 'Albedo Chapter two'
+tags = ['albedo']
+posted = '2025/02/01'
+estimated_reading_time = 30
+author = 'Benny-action'
+order = 2
