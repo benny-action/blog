@@ -38,4 +38,4 @@ shuddering away to become a solid structure upon eerily still water. A ring of c
 with glances through a set of small binoculars, searching. Rounding the building slowly, she said
 under her breath "It's been searched, but that doesn't mean it's not still in there." To the SOTB
 now "Could you bring us close?" <br>
-At an alcove in the wall they leave the wheelhouse and step into the building
+At an alcove in the wall they leave the wheelhouse and step into the building...
